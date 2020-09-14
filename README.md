@@ -7,7 +7,7 @@
   <img align="left" alt="Hung's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+![Hung's github stats](https://github-readme-stats.vercel.app/api?username=hungptse&theme=gruvbox&show_icons=true)
 
 ### I am Hung
 - A Software Engineering Undergraduate Student. 
